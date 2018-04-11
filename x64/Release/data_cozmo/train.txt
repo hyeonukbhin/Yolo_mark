@@ -1,0 +1,8 @@
+x64/Release/data/img/bear1.jpg
+x64/Release/data/img/bear2.jpg
+x64/Release/data/img/bear3.jpg
+x64/Release/data/img/pokemon1.jpg
+x64/Release/data/img/pokemon2.jpg
+x64/Release/data/img/pokemon3.jpg
+x64/Release/data/img/ramen1.jpg
+x64/Release/data/img/ramen2.jpg
